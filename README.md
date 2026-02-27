@@ -39,3 +39,4 @@ Schema-Driven AI Responses By enforcing structured JSON schemas in the communica
 
 1. Install dependencies:
    `npm install`
+2. Run the app: `npm run dev`
